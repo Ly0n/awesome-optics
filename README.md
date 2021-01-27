@@ -16,3 +16,7 @@ A collection of online resources related to optics
 
 ## Detectors
 - [PCO](https://www.pco.de/) - A leading specialist and innovator in digital imaging used in scientific and industrial applications such as life and physical science, high-speed imaging and machine vision.thorlabs.de
+
+## Software tools
+
+- [Ray Optics Simulation](https://github.com/ricktu288/ray-optics)
