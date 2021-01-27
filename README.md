@@ -18,5 +18,5 @@ A collection of online resources related to optics
 - [PCO](https://www.pco.de/) - A leading specialist and innovator in digital imaging used in scientific and industrial applications such as life and physical science, high-speed imaging and machine vision.thorlabs.de
 
 ## Software tools
-
-- [Ray Optics Simulation](https://github.com/ricktu288/ray-optics)
+- [Ray Optics Simulation](https://github.com/ricktu288/ray-optics) - Simulate reflection and refraction of light.
+- [Goptical](https://www.gnu.org/software/goptical/) - A C++ optical design and simulation library.
