@@ -7,6 +7,7 @@ A collection of online resources related to optics
 - [Thorlabs](https://www.thorlabs.de/) - An American privately held optical equipment company headquartered in Newton, New Jersey
 - [OptoSigma](https://www.optosigma.com/) - OptoSigma is a leading global manufacturer of Optical Systems, Optical Assemblies, Optical Coatings, Opto-Mechanics, Manual and Motion Control Stages, and a variety of complimentary Photonics products.
 - [EdmundOptics](https://www.edmundoptics.com/) - A leading global manufacturer and supplier of optics, imaging, and photonics technology that has served a variety of markets including Life Sciences, Biomedical, Industrial Inspection, Semiconductor, R&D, and Defense since 1942.
+- [Standa](http://www.standa.lt/) - Has it's own industrial base that includes CNC turning, milling, grinding machines. Standa's design department, while developing standard products presented in Standa's catalogue (such as motorized and manual translation and rotation stages, motion controllers, optical tables, vibration isolation systems, optical mounts and holders, optics, dpss lasers and etc.).
 
 ## Light Sources
 - [Dolan-Jenner](https://dolan-jenner.com/) - Since 1962, Dolan-Jenner has grown as one of the leading manufacturers of fiber optic components and fiber optic illumination systems serving the microscopy, imaging, and machine vision industries.
