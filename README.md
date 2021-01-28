@@ -15,4 +15,9 @@ A collection of online resources related to optics
 - [ZYGO](https://www.zygo.com/) - Your worldwide supplier of optical metrology instruments, high precision optical components, and complex electro-optical system design and manufacturing services.
 
 ## Detectors
-- [PCO](https://www.pco.de/) - A leading specialist and innovator in digital imaging used in scientific and industrial applications such as life and physical science, high-speed imaging and machine vision.thorlabs.de
+- [PCO](https://www.pco.de/) - A leading specialist and innovator in digital imaging used in scientific and industrial applications such as life and physical science, high-speed imaging and machine vision.
+
+## Lectures and Courses
+[Optical Engineering](https://www.coursera.org/specializations/optical-engineering) - Master Optical Design. Design high performance optical systems for a wide range of applications.
+[Nonlinear Optics](https://www.youtube.com/playlist?list=PLJ93B4XefbscJnMfRi0ms9jQSS1UjsmQF) - A hybrid course at Friedrich Schiller University Jena in the winter semester 2020/21.
+
