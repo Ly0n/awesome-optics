@@ -9,6 +9,7 @@ A collection of online resources related to optics
 - [EdmundOptics](https://www.edmundoptics.com/) - A leading global manufacturer and supplier of optics, imaging, and photonics technology that has served a variety of markets including Life Sciences, Biomedical, Industrial Inspection, Semiconductor, R&D, and Defense since 1942.
 - [Standa](http://www.standa.lt/) - Has it's own industrial base that includes CNC turning, milling, grinding machines. Standa's design department, while developing standard products presented in Standa's catalogue (such as motorized and manual translation and rotation stages, motion controllers, optical tables, vibration isolation systems, optical mounts and holders, optics, dpss lasers and etc.).
 - [Altechna](https://www.altechna.com/) - We have spent more than 25 years creating and developing complex technological solutions and custom designs for laser optics and related accessories.
+- [Newport](https://www.newport.com/) - A leading global supplier of advanced technology products and systems to customers in the scientific research, microelectronics, life and health sciences, industrial manufacturing and defense/security markets.
 
 ## Light Sources
 - [Dolan-Jenner](https://dolan-jenner.com/) - Since 1962, Dolan-Jenner has grown as one of the leading manufacturers of fiber optic components and fiber optic illumination systems serving the microscopy, imaging, and machine vision industries.
