@@ -29,3 +29,4 @@ A collection of online resources related to optics
 ## Software
 
 - [PyZDDE](https://github.com/xzos/PyZDDE) - Python Zemax Dynamic Data Exchange.
+- [Inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
