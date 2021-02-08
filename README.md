@@ -11,6 +11,7 @@ A collection of online resources related to optics
 - [Altechna](https://www.altechna.com/) - We have spent more than 25 years creating and developing complex technological solutions and custom designs for laser optics and related accessories.
 - [Newport](https://www.newport.com/) - A leading global supplier of advanced technology products and systems to customers in the scientific research, microelectronics, life and health sciences, industrial manufacturing and defense/security markets.
 - [PI](https://www.physikinstrumente.com/) - Solution for Precision Motion and Positioning.
+- [II-VI Incorporated](https://ii-vi.com/) - A global leader in engineered materials, optoelectronic components and optical systems offering vertically integrated solutions for applications in materials processing, communications, aerospace & defense, life sciences, semiconductor capital equipment, automotive and consumer electronics.
 
 
 ## Light Sources
