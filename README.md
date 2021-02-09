@@ -28,7 +28,8 @@ A collection of online resources related to optics
 - [Nonlinear Optics](https://www.youtube.com/playlist?list=PLJ93B4XefbscJnMfRi0ms9jQSS1UjsmQF) - A hybrid course at Friedrich Schiller University Jena in the winter semester 2020/21.
 - [Optics](https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/) - This course provides an introduction to optical science with elementary engineering applications.
 
-## Software
+## Software for Optical Design and Drawings
 
 - [PyZDDE](https://github.com/xzos/PyZDDE) - Python Zemax Dynamic Data Exchange.
 - [Inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
+- [ComponentLibrary](http://www.gwoptics.org/ComponentLibrary/) - A free, open collection of images for drawing diagrams related to laser optics, including many optics but also electronic components.
