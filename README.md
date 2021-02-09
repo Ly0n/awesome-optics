@@ -27,6 +27,7 @@ A collection of online resources related to optics
 - [Optical Engineering](https://www.coursera.org/specializations/optical-engineering) - Master Optical Design. Design high performance optical systems for a wide range of applications.  
 - [Nonlinear Optics](https://www.youtube.com/playlist?list=PLJ93B4XefbscJnMfRi0ms9jQSS1UjsmQF) - A hybrid course at Friedrich Schiller University Jena in the winter semester 2020/21.
 - [Optics](https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/) - This course provides an introduction to optical science with elementary engineering applications.
+- [ZYGO Webinars & Training](https://www.gotostage.com/channel/zygo-webinars) - This channel contains a selection of past ZYGO webinars and informal on-line training videos.
 
 ## Software for Optical Design and Drawings
 
