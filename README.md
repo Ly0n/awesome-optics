@@ -28,6 +28,7 @@ A collection of online resources related to optics
 - [Nonlinear Optics](https://www.youtube.com/playlist?list=PLJ93B4XefbscJnMfRi0ms9jQSS1UjsmQF) - A hybrid course at Friedrich Schiller University Jena in the winter semester 2020/21.
 - [Optics](https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/) - This course provides an introduction to optical science with elementary engineering applications.
 - [ZYGO Webinars & Training](https://www.gotostage.com/channel/zygo-webinars) - This channel contains a selection of past ZYGO webinars and informal on-line training videos.
+- [The Feynman Lectures Website](https://www.feynmanlectures.caltech.edu/) - Now, anyone with internet access and a web browser can enjoy reading2 a high quality up-to-date copy of Feynman's legendary lectures.
 
 ## Software for Optical Design and Drawings
 
