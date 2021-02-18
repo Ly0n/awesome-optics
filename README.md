@@ -34,3 +34,6 @@ A collection of online resources related to optics
 - [PyZDDE](https://github.com/xzos/PyZDDE) - Python Zemax Dynamic Data Exchange.
 - [Inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
 - [ComponentLibrary](http://www.gwoptics.org/ComponentLibrary/) - A free, open collection of images for drawing diagrams related to laser optics, including many optics but also electronic components.
+- [Meep](https://github.com/NanoComp/meep) - A free and open-source software package for electromagnetics simulation via the finite-difference time-domain (FDTD) method spanning a broad range of applications.
+
+
