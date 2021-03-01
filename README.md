@@ -13,6 +13,7 @@ A collection of online resources related to optics
 - [PI](https://www.physikinstrumente.com/) - Solution for Precision Motion and Positioning.
 - [II-VI Incorporated](https://ii-vi.com/) - A global leader in engineered materials, optoelectronic components and optical systems offering vertically integrated solutions for applications in materials processing, communications, aerospace & defense, life sciences, semiconductor capital equipment, automotive and consumer electronics.
 - [KOHZU](https://www.kohzuprecision.com/i/) - Manufacturing and design: Precision positioning Device / Optical measuring Device / Inspection Device / Precision Device parts.
+- [EKSMA OPTICS](https://eksmaoptics.com/) - A manufacturer and global supplier of precision optical components and optical systems for high power laser applications, laser media & nonlinear frequency conversion crystals, opto-mechanics, electro-optical Pockels cells with drivers and ultrafast pulse picking systems used in lasers and other optical instruments.
 
 
 ## Light Sources
