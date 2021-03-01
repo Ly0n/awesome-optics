@@ -12,6 +12,7 @@ A collection of online resources related to optics
 - [Newport](https://www.newport.com/) - A leading global supplier of advanced technology products and systems to customers in the scientific research, microelectronics, life and health sciences, industrial manufacturing and defense/security markets.
 - [PI](https://www.physikinstrumente.com/) - Solution for Precision Motion and Positioning.
 - [II-VI Incorporated](https://ii-vi.com/) - A global leader in engineered materials, optoelectronic components and optical systems offering vertically integrated solutions for applications in materials processing, communications, aerospace & defense, life sciences, semiconductor capital equipment, automotive and consumer electronics.
+- [KOHZU](https://www.kohzuprecision.com/i/) - Manufacturing and design: Precision positioning Device / Optical measuring Device / Inspection Device / Precision Device parts.
 
 
 ## Light Sources
