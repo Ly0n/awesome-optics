@@ -37,6 +37,7 @@ A collection of online resources related to optics and optical engineering.
 ### Software for Optical Design and Drawings
 
 - [Prysm](https://github.com/brandondube/prysm) - Integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing.
+- [pyOpTools](https://github.com/cihologramas/pyoptools/) - A set of python modules that allow to simulate the behavior of optical systems
 - [PyZDDE](https://github.com/xzos/PyZDDE) - Python Zemax Dynamic Data Exchange.
 - [Inkscape-raytracing](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
 - [ComponentLibrary](http://www.gwoptics.org/ComponentLibrary/) - A free, open collection of images for drawing diagrams related to laser optics, including many optics but also electronic components.
@@ -47,6 +48,7 @@ A collection of online resources related to optics and optical engineering.
 - [Raysect](https://github.com/raysect/source) - A ray-tracing framework for optical/non-optical physics simulations.
 - [POPPY](https://github.com/spacetelescope/poppy) - A Python package that simulates physical optical propagation including diffraction.
 - [LightPipes](https://github.com/opticspy/lightpipes) - It is designed to model coherent optical devices when the diffraction is essential. 
+
 
 ### Interferometry
 
