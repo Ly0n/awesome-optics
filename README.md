@@ -34,7 +34,7 @@ A collection of online resources related to optics and optical engineering.
 - [The Feynman Lectures Website](https://www.feynmanlectures.caltech.edu/) - Now, anyone with internet access and a web browser can enjoy reading2 a high quality up-to-date copy of Feynman's legendary lectures.
 - [Beobachtende Astronomie](https://www.ita.uni-heidelberg.de/~dullemond/lectures/obsastro_2010/) - This lecture gives an overview over methods of astronomical observations across the electromagnetic spectrum (gamma-rays, X-rays, UV/optical, infrared, millimeter and radio)
 
-### Software for Optical Design and Drawings
+### Software for Optical Design
 
 - [Prysm](https://github.com/brandondube/prysm) - Integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing.
 - [pyOpTools](https://github.com/cihologramas/pyoptools/) - A set of python modules that allow to simulate the behavior of optical systems
@@ -47,7 +47,8 @@ A collection of online resources related to optics and optical engineering.
 - [RayOpt](https://github.com/quartiq/rayopt) - Optics design (lenses, cavities, gaussian optics, lasers). Geometric, paraxial, and gaussian ray tracing.
 - [Raysect](https://github.com/raysect/source) - A ray-tracing framework for optical/non-optical physics simulations.
 - [POPPY](https://github.com/spacetelescope/poppy) - A Python package that simulates physical optical propagation including diffraction.
-- [LightPipes](https://github.com/opticspy/lightpipes) - It is designed to model coherent optical devices when the diffraction is essential. 
+- [LightPipes](https://github.com/opticspy/lightpipes) - It is designed to model coherent optical devices when the diffraction is essential.
+- [HCIPy](https://github.com/ehpor/hcipy) - A framework written in Python for high contrast imaging simulation work. It implements adaptive optics simulation, coronagraphy and optical diffraction calculations
 
 
 ### Interferometry
