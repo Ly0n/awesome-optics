@@ -3,6 +3,7 @@ A collection of online resources related to optics and optical engineering.
 
 ## Equipement and Tools
 ### Optomechanics and Optical Equipment
+- [MEETOPTICS](https://www.meetoptics.com/) - Find and compare products from trusted suppliers.
 - [OWIS](https://www.owis.eu/en/home/) - Optical Beam Handling Systems and Positioning Systems.
 - [Qioptiq](https://www.qioptiq-shop.com/) - Online-Shop for high end optical devices.
 - [Thorlabs](https://www.thorlabs.de/) - An American privately held optical equipment company headquartered in Newton, New Jersey
