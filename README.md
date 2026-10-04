@@ -37,6 +37,7 @@ A collection of online resources related to optics and optical engineering.
 
 ### Software for Optical Design
 
+- [BeamZ](https://github.com/beamzorg/beamz) - Free, open-source 2D/3D FDTD solver with an intuitive Python API, CUDA and multi-GPU acceleration, and gradient-based inverse design for photonics.
 - [Prysm](https://github.com/brandondube/prysm) - Integrated modeling, phase retrieval, segmented systems, polynomials and fitting, sequential raytracing.
 - [pyOpTools](https://github.com/cihologramas/pyoptools/) - A set of python modules that allow to simulate the behavior of optical systems
 - [PyZDDE](https://github.com/xzos/PyZDDE) - Python Zemax Dynamic Data Exchange.
