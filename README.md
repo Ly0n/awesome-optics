@@ -53,6 +53,7 @@ A collection of online resources related to optics and optical engineering.
 - [HCIPy](https://github.com/ehpor/hcipy) - A framework written in Python for high contrast imaging simulation work. It implements adaptive optics simulation, coronagraphy and optical diffraction calculations
 - [PUMA Analyzer](https://github.com/ameenalzubi0-bit/puma-analyzer-releases) - A Windows desktop application that estimates thin-film thickness and optical constants (n, k) from a measured transmission spectrum, using a physics-based transmittance model and a compiled nonlinear-optimization engine.
 - [Optaller](https://github.com/FixAndFocus/optaller) - A desktop program (Windows, macOS) for designing and analysing photo and cinema lenses, built on Optiland and RayOptics: anamorphics in two axes, cross-validation between engines, ghosts, focus breathing, rehousing and workshop tools. Free for private individuals; not open source.
+- [PhotonCalc](https://github.com/NarwhalThePong/photoncalc) - Free, open-source browser calculators for photonics: Gaussian beams, ring resonators, QPM poling periods, Sellmeier dispersion, fiber NA/V-number. Live at https://narwhalthepong.github.io/photoncalc/.
 
 
 ### Interferometry
